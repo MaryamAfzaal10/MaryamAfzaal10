@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1050 680" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <rect x="0" y="0" width="1050" height="680" fill="#0b1220"/>
+  <text x="525" y="40" fill="#e2e8f0" font-size="24" font-weight="700" text-anchor="middle">LCD Stopwatch / Timer - Circuit Diagram</text>
+
+  <rect x="70" y="150" width="250" height="420" rx="14" fill="#0f2437" stroke="#14b8a6" stroke-width="2.5"/>
+  <text x="195" y="180" fill="#5eead4" font-size="18" font-weight="700" text-anchor="middle">ARDUINO UNO</text>
+  <rect x="95" y="200" width="200" height="130" rx="6" fill="#0b1a29" stroke="#1f3b4d"/>
+  <text x="195" y="270" fill="#64748b" font-size="12" text-anchor="middle">ATmega328P</text>
+
+  <g font-size="13" fill="#f8fafc">
+    <circle cx="322" cy="360" r="5" fill="#f472b6"/><text x="335" y="365">D2 - LCD D7</text>
+    <circle cx="322" cy="385" r="5" fill="#f472b6"/><text x="335" y="390">D3 - LCD D6</text>
+    <circle cx="322" cy="410" r="5" fill="#f472b6"/><text x="335" y="415">D4 - LCD D5</text>
+    <circle cx="322" cy="435" r="5" fill="#f472b6"/><text x="335" y="440">D5 - LCD D4</text>
+    <circle cx="322" cy="460" r="5" fill="#c084fc"/><text x="335" y="465">D6 - LCD EN</text>
+    <circle cx="322" cy="485" r="5" fill="#c084fc"/><text x="335" y="490">D7 - LCD RS</text>
+    <circle cx="322" cy="510" r="5" fill="#38bdf8"/><text x="335" y="515">D8 - Start/Pause Btn</text>
+    <circle cx="322" cy="535" r="5" fill="#38bdf8"/><text x="335" y="540">D9 - Reset Btn</text>
+    <circle cx="322" cy="560" r="5" fill="#ef4444"/><text x="335" y="565">5V</text>
+    <circle cx="322" cy="580" r="5" fill="#94a3b8"/><text x="335" y="585">GND</text>
+  </g>
+
+  <rect x="640" y="70" width="330" height="150" rx="10" fill="#052e1c" stroke="#4ade80" stroke-width="2.5"/>
+  <text x="805" y="98" fill="#86efac" font-size="16" font-weight="700" text-anchor="middle">16x2 LCD DISPLAY</text>
+  <rect x="665" y="110" width="280" height="80" rx="4" fill="#031f13" stroke="#166534"/>
+  <text x="805" y="140" fill="#4ade80" font-size="20" font-family="monospace" text-anchor="middle">00:12:45</text>
+  <text x="805" y="165" fill="#4ade80" font-size="13" font-family="monospace" text-anchor="middle">Running...</text>
+  <g font-size="11" fill="#bbf7d0">
+    <text x="670" y="205">RS EN D4 D5 D6 D7  VSS RW K  VDD A  V0</text>
+  </g>
+
+  <rect x="640" y="250" width="140" height="70" rx="8" fill="#1a1030" stroke="#a78bfa" stroke-width="2"/>
+  <text x="710" y="275" fill="#c4b5fd" font-size="13" text-anchor="middle" font-weight="600">10k Potentiometer</text>
+  <text x="710" y="295" fill="#c4b5fd" font-size="11" text-anchor="middle">(LCD Contrast - V0)</text>
+  <circle cx="710" cy="308" r="4" fill="#a78bfa"/>
+
+  <g id="btn-start">
+    <rect x="820" y="270" width="90" height="60" rx="8" fill="#0c1a3d" stroke="#38bdf8" stroke-width="2"/>
+    <text x="865" y="295" fill="#7dd3fc" font-size="12" text-anchor="middle" font-weight="600">Start /</text>
+    <text x="865" y="310" fill="#7dd3fc" font-size="12" text-anchor="middle" font-weight="600">Pause</text>
+    <circle cx="865" cy="322" r="3" fill="#7dd3fc"/>
+  </g>
+  <g id="btn-reset">
+    <rect x="930" y="270" width="90" height="60" rx="8" fill="#0c1a3d" stroke="#38bdf8" stroke-width="2"/>
+    <text x="975" y="300" fill="#7dd3fc" font-size="12" text-anchor="middle" font-weight="600">Reset</text>
+    <circle cx="975" cy="322" r="3" fill="#7dd3fc"/>
+  </g>
+
+  <line x1="580" y1="230" x2="580" y2="600" stroke="#94a3b8" stroke-width="2"/>
+  <text x="500" y="420" fill="#94a3b8" font-size="12">GND rail</text>
+
+  <path d="M665,205 C450,205 450,485 322,485" fill="none" stroke="#c084fc" stroke-width="2"/>
+  <path d="M690,205 C440,205 440,460 322,460" fill="none" stroke="#c084fc" stroke-width="2"/>
+  <path d="M715,205 C430,205 430,435 322,435" fill="none" stroke="#f472b6" stroke-width="2"/>
+  <path d="M740,205 C420,205 420,410 322,410" fill="none" stroke="#f472b6" stroke-width="2"/>
+  <path d="M765,205 C410,205 410,385 322,385" fill="none" stroke="#f472b6" stroke-width="2"/>
+  <path d="M790,205 C400,205 400,360 322,360" fill="none" stroke="#f472b6" stroke-width="2"/>
+
+  <path d="M865,205 C600,240 600,560 322,560" fill="none" stroke="#ef4444" stroke-width="2"/>
+  <text x="600" y="235" fill="#ef4444" font-size="10">VDD/A to 5V</text>
+  <path d="M845,205 C580,230 580,580 322,580" fill="none" stroke="#94a3b8" stroke-width="2"/>
+
+  <path d="M710,250 C710,225 940,225 940,205" fill="none" stroke="#a78bfa" stroke-width="2"/>
+  <path d="M660,320 C580,340 580,580 322,580" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M760,320 C700,340 700,560 322,560" fill="none" stroke="#ef4444" stroke-width="2"/>
+
+  <path d="M865,270 C600,270 600,510 322,510" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M865,330 C580,360 580,580 322,580" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M975,270 C620,270 620,535 322,535" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M975,330 C590,400 590,580 322,580" fill="none" stroke="#94a3b8" stroke-width="2"/>
+
+  <text x="525" y="640" fill="#64748b" font-size="12" text-anchor="middle">Buttons use Arduino's internal INPUT_PULLUP - no external resistors required</text>
+</svg>
