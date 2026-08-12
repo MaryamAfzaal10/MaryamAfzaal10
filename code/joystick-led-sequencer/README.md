@@ -2,7 +2,7 @@
 
 A joystick-based light sequencer. Pushing the joystick left or right steps forward or backward through three LEDs (Green, Blue, Yellow), lighting exactly one at a time.
 
-**📹 Demo video:** see this folder
+**📹 Demo video:** [see the demo-video folder](./demo-video)
 **📄 Code:** [JoystickControl.ino](./JoystickControl.ino)
 
 <br/>
