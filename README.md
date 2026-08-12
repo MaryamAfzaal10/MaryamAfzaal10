@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  📍 Pakistan &nbsp;|&nbsp; 🎓 Intermediate (ICS) completed &nbsp;|&nbsp; 🎯 Applying to universities abroad
+  <img src="https://img.shields.io/badge/Location-Pakistan-14b8a6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Education-Intermediate%20(ICS)%20Completed-38bdf8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Goal-Studying%20Abroad-a78bfa?style=flat-square"/>
 </p>
 
 ---
@@ -17,11 +19,22 @@ Since I don't have formal engineering training yet, I've been teaching myself th
 
 Beyond engineering, I also work in **Blender 3D modeling, CAD, graphic design, calligraphy, sketching, painting**, and I sing. I like keeping technical and creative skills close together.
 
+My goal is to take this same hands-on, self-taught energy into a proper engineering program, and keep building bigger and more capable things.
+
 <br/>
 
 ## 🧰 Tools &amp; Technologies
 
-`Arduino` &nbsp;`C++` &nbsp;`Embedded Systems` &nbsp;`Circuit Design` &nbsp;`Blender` &nbsp;`CAD` &nbsp;`Graphic Design` &nbsp;`Calligraphy`
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-1e293b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Circuit%20Design-f59e0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAD-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graphic%20Design-ec4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Calligraphy-a78bfa?style=for-the-badge"/>
+</p>
 
 <br/>
 
