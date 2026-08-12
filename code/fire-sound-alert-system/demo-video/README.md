@@ -1,5 +1,6 @@
 # Demo Video
 
-Upload your demo video for the **Fire & Sound Alert System** in this folder.
 
-Just drag and drop the video file here on GitHub (use 'Add file' > 'Upload files'), and it will show up right in this folder.
+https://github.com/user-attachments/assets/43f0188d-7bf0-4757-a920-56e2126d1149
+
+
