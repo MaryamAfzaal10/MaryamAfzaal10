@@ -2,7 +2,7 @@
 
 A digital stopwatch built entirely with Arduino's internal timing, no RTC module needed, displaying minutes, seconds, and centiseconds on a 16x2 LCD, with Start/Pause and Reset buttons.
 
-**📹 Demo video:** see this folder
+**📹 Demo video:** [see the demo-video folder](./demo-video)
 **📄 Code:** [LCDStopwatch.ino](./LCDStopwatch.ino)
 
 <br/>
