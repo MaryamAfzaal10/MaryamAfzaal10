@@ -2,7 +2,7 @@
 
 A safety monitoring system that watches for flame and loud sound at the same time, displaying live status on an LCD and sounding a buzzer when something is detected.
 
-**📹 Demo video:** see this folder
+**📹 Demo video:** [see the demo-video folder](./demo-video)
 **📄 Code:** [FireSoundAlert.ino](./FireSoundAlert.ino)
 
 <br/>
