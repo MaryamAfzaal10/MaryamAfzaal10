@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pakistan-14b8a6?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Education-Intermediate%20(ICS)%20Completed-38bdf8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Goal-Studying%20Abroad-a78bfa?style=flat-square"/>
 </p>
 
 ---
