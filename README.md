@@ -28,11 +28,8 @@ My goal is to take this same hands-on, self-taught energy into a proper engineer
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-1e293b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Circuit%20Design-f59e0b?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CAD-4B5563?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Graphic%20Design-ec4899?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Calligraphy-a78bfa?style=for-the-badge"/>
 </p>
 
 <br/>
