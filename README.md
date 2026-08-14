@@ -16,7 +16,7 @@ I'm **Maryam Afzaal**, a student from **Pakistan**. I've completed my **Matricul
 
 Since I don't have formal engineering training yet, I've been teaching myself through hands-on projects, building and debugging **Arduino and embedded electronics systems** from scratch. I like figuring out how things work at the circuit level, not just getting them to work.
 
-Beyond engineering, I also work in **Blender 3D modeling, CAD, graphic design, calligraphy, sketching, painting**, and I sing. I like keeping technical and creative skills close together.
+Beyond engineering, I also work in **Blender 3D modeling, graphic design, calligraphy, sketching, painting, and I sing**. I like keeping technical and creative skills close together.
 
 My goal is to take this same hands-on, self-taught energy into a proper engineering program, and keep building bigger and more capable things.
 
